@@ -19,7 +19,7 @@ Sistema em Node.js para gerenciamento de inventário de uma loja de eletrônicos
 ## Como executar
 1. Clone o repositório
 2. Instale as dependências:
-   npm install
-   npm install readline-sync uuid
+   -npm install
+   -npm install readline-sync uuid
 4. Execute o sistema:
    npm start
